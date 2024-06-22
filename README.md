@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sarthak_wiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarthak_wiz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sarthak-jain-32b114228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sarthak-jain-32b114228/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sarthak-jain-32b114228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sarthak-jain-32b114228/" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/indiabuild-building-india-s-future-1069614588133396552" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/indiabuild-building-india-s-future-1069614588133396552" height="30" width="40" /></a>
 </p>
 
