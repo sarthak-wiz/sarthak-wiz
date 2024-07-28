@@ -1,15 +1,18 @@
-<h1 align="center">Hi 👋, I'm Sarthak Jain</h1>
-<h3 align="center">A passionate programmer from India, with interest's in AI, Web Development, GoLang.</h3>
+<h1 align="center">Hi 👋, I'm Sarthak</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak-wiz&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak-wiz" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarthak-wiz" alt="sarthak-wiz" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/sarthak_wiz" target="blank"><img src="https://img.shields.io/twitter/follow/sarthak_wiz?logo=twitter&style=for-the-badge" alt="sarthak_wiz" /></a> </p>
-
-- 🌱 I’m currently Reading **ML with pytorch and sklearn by sebastian Raschka**
-
-- 📫 How to reach me **23f3000839@ds.study.iitm.ac.in**
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1;">
+    <p>building (& breaking) software</p>
+    <p><img src="https://komarev.com/ghpvc/?username=sarthak-wiz&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak-wiz" /></p>
+    <p><a href="https://twitter.com/sarthak_wiz" target="blank"><img src="https://img.shields.io/twitter/follow/sarthak_wiz?logo=twitter&style=for-the-badge" alt="sarthak_wiz" /></a></p>
+    <p>🌱 I'm currently Reading <strong>ML with pytorch and sklearn by sebastian Raschka</strong></p>
+    <p>📫 How to reach me <strong>23f3000839@ds.study.iitm.ac.in</strong></p>
+  </div>
+  
+  <div style="flex: 1; padding-left: 20px;">
+    <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*ubCR6WyFNthQVQ9D4AIO9g.gif" alt="coding gif" style="max-width: 100%; height: auto;" />
+  </div>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,4 +28,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthak-wiz&show_icons=true&locale=en" alt="sarthak-wiz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak-wiz&" alt="sarthak-wiz" /></p>
